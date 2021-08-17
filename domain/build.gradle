@@ -1,3 +1,9 @@
-apply plugin: 'java-library'
+plugins {
+    id 'org.jetbrains.kotlin.jvm'
+}
 
 ext.moduleName = 'slalom.example.domain'
+
+dependencies {
+    implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
+}

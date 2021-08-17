@@ -1,4 +1,7 @@
-apply plugin: 'java-library'
+plugins {
+	id 'org.jetbrains.kotlin.jvm'
+}
+
 
 ext.moduleName = 'slalom.example.config'
 
