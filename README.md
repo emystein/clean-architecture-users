@@ -1,5 +1,7 @@
 ## Clean Architecture Example
 
+Kotlin port of https://github.com/carlphilipp/clean-architecture-example
+
 ### Blog post
 
 https://medium.com/slalom-engineering/clean-architecture-with-java-11-f78bba431041
